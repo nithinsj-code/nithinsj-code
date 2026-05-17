@@ -14,7 +14,6 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Nithin%20SJ-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nithin-sj)
 [![Email](https://img.shields.io/badge/Email-sjnithincode@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sjnithincode@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-nithinsj--code-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/nithinsj-code)
-[![Profile Views](https://komarev.com/ghpvc/?username=nithinsj-code&style=for-the-badge&color=7C3AED&label=PROFILE+VIEWS)](https://github.com/nithinsj-code)
 
 </div>
 
@@ -27,7 +26,7 @@ class Nithin_SJ:
     name       = "Nithin S J"
     username   = "nithinsj-code"
     location   = "India 🇮🇳"
-    role       = "Full Stack Developer"
+    
 
     interests  = [
         "🤖 AI / LLMs / Agents",
@@ -99,7 +98,7 @@ class Nithin_SJ:
 🔥 LLMs & Prompt Engineering
 🧠 AI Agents & Autonomous Systems
 ⚡ Building full-stack products with AI at the core
-🌍 Making technology that actually solves problems
+🌍 Making technology thatpredictually solves problems
 ```
 
 > *"The best way to predict the future is to build it."* — Alan Kay
