@@ -1,25 +1,23 @@
 <h1 align="center">Hi, I'm Nithin S J 👋</h1>
 
 <p align="center">
-  <b>AI/ML Student · Full-Stack AI/SaaS Builder · Freelance Web Developer</b><br>
+  <b>AI/DS Student · Full-Stack AI Product Builder · AI Engineer</b><br>
   I build and ship AI-powered products end to end — from LLM apps and RAG pipelines to polished, deployed web apps.
 </p>
 
 <p align="center">
   <a href="https://github.com/nithinsj-code"><img src="https://img.shields.io/badge/GitHub-nithinsj--code-181717?style=for-the-badge&logo=github" alt="GitHub"></a>
-  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn"></a>
-  <a href="mailto:YOUR-EMAIL@example.com"><img src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+  <a href="https://www.linkedin.com/in/nithin-sj"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn"></a>
+  <a href="mailto:sjnithincode@example.com"><img src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
 </p>
 
 ---
 
 ## 👨‍💻 About Me
 
-- 🎓 AI/ML student at **Sri Shakthi Institute of Engineering and Technology**
-- 🚀 Building solo, full-stack **AI/SaaS products** — I own design, backend, frontend and deployment
-- 💼 Freelance **web developer** (WordPress/WooCommerce and custom builds)
+- 🎓 AI/DS Student
 - 🧠 Focused on **LLM applications, AI agents, computer vision and developer tools**
-- 🏆 Active in hackathons (HackerRank Orchestrate, MSME Hackathon 6.0)
+- 🏆 Active in hackathons
 - 📍 India
 
 ---
@@ -115,7 +113,7 @@ Helps farmers detect plant diseases and plan their crops using ML and LLMs.
 
 ## 🎯 Currently
 
-- 🔨 Building and shipping new AI/SaaS products
+- 🔨 Building and shipping new AI products
 - 📚 Going deeper on LLM apps, agents and evaluation
 - 🤝 Open to **internships, full-time roles and freelance work**
 
@@ -123,6 +121,6 @@ Helps farmers detect plant diseases and plan their crops using ML and LLMs.
 
 ## 📫 Let's Connect
 
-I'm happy to talk about AI products, collaborations or opportunities — reach out via [LinkedIn](https://www.linkedin.com/in/YOUR-LINKEDIN) or [email](mailto:YOUR-EMAIL@example.com).
+I'm happy to talk about AI products, collaborations or opportunities — reach out via [LinkedIn](https://www.linkedin.com/in/nithin-sj) or [email](mailto:sjnithincode@gmail.com).
 
 <p align="center"><i>⭐ If you like any of my projects, a star goes a long way!</i></p>
