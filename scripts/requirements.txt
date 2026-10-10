@@ -1,8 +1,0 @@
-requests==2.32.3
-beautifulsoup4==4.12.3
-# portrait-only (not needed by the daily workflow, only for regenerating
-# avi-ascii.svg locally when you change your photo):
-# pillow
-# numpy
-# opencv-python
-# rembg
